@@ -6,7 +6,8 @@ We at disruptive want to drive the GenAI revolution, strategically and technical
  <source media="(prefers-color-scheme: light)" srcset="https://disruptive-muenchen.de/wp-content/uploads/2024/01/Disruptive_Blog_ChatGBT_4.jpg">
  <img alt="mood image" src="https://disruptive-muenchen.de/wp-content/uploads/2024/01/Disruptive_Blog_ChatGBT_4.jpg">
 </picture>
-## Our preferred Bots
+
+## Preferred bots
 <details>
 <summary>My top Preferred Bot</summary>
 
