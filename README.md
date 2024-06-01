@@ -18,3 +18,6 @@ We at disruptive want to drive the GenAI revolution, strategically and technical
 |     3|     Claude    |
 </details>
 
+---
+> KI wird uns keine Jobs kosten, sondern diejenigen, die mit KI arbeiten, werden diejenigen abhängen, die dies nicht tun.
+– Timm Rotter
